@@ -31,14 +31,6 @@ I'm a data analyst with expertise in Python, mathematical signal analysis, and d
 - Description: Collaborated in a group project focused on visualizing wildfire data, using data science techniques to analyze geographical and temporal patterns.
 - [View Code](https://github.com/pfdata/dataviz-wildfire)
 
-## Areas of Interest
-
-### Computational Processing of Nheengatú (Modern Tupí)
-
-- Tools: Python
-- Description: Tools and resources for the computational processing of Nheengatú, a Tupi-Guarani language.
-- [View Code](https://github.com/pfdata/nheengatu)
-
 ## Skills
 
 - Python, NumPy, SciPy, Pandas
