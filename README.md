@@ -1,10 +1,10 @@
-# pfs-db.github.io
+# pfdata.github.io
 
-This repository hosts the official website for the **PFS-DB Project**, utilizing the [Forty Jekyll Theme](https://html5up.net/forty) by [HTML5 UP](https://html5up.net). It serves as a central hub for documentation, updates, and resources related to the PFS-DB initiative.
+This repository hosts the official website for the **PFDATA Project**, utilizing the [Forty Jekyll Theme](https://html5up.net/forty) by [HTML5 UP](https://html5up.net). It serves as a central hub for documentation, updates, and resources related to the PFDATA initiative.
 
 ## Live Site
 
-Access the live website here: [https://pfs-db.github.io](https://pfs-db.github.io)
+Access the live website here: [https://pfdata.github.io](https://pfdata.github.io)
 
 ## Repository Structure
 
@@ -25,8 +25,8 @@ To set up the project locally:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/pfs-db/pfs-db.github.io.git
-    cd pfs-db.github.io
+    git clone https://github.com/pfdata/pfdata.github.io.git
+    cd pfdata.github.io
     ```
 
 2. Install dependencies:

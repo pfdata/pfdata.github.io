@@ -19,4 +19,4 @@ I’ve also worked on research projects involving hate speech detection from aud
 
 You can view some of my projects in the **Projects** section, where I demonstrate my work in hate speech detection, speech-to-text transcription, and other data-driven solutions.
 
-Feel free to connect with me via [LinkedIn](https://linkedin.com/in/pablo-freitas-it) or explore my [GitHub](https://github.com/pfs-db) for more examples of my work!
+Feel free to connect with me via [LinkedIn](https://linkedin.com/in/pablo-freitas-it) or explore my [GitHub](https://github.com/pfdata) for more examples of my work!
